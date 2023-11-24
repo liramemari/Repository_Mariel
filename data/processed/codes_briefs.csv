@@ -1,0 +1,35 @@
+Pergunta;Codigo;Descri‡Æo
+Localidade;1,2,3;1- Gyn /2- AG/ 3- BG
+Idade ;1,2,3,4,5,6,7;1- 18-25 anos/ 2- 
+Escolaridade ;1 at‚ 4;1- EF/ 2- EM/ 3- ES/ 4-Pos
+Moradia ;1 at‚ 3;1- j  morou/ 2- mora atualmente/ 3- nunca morou
+TempoM;1 at‚ 3;complementar a moradia, deveria ser 3.1?
+Contato ;1 at‚ 5;Frequencia pouca - muita
+Reparar ;1 e 2 ;Sim e nÆo 
+Identificar ;1 at‚ 3;1- Sim/ 2- Talvez/ 3- NÆo
+GostaAV;1 e 2 ;1- Sim/ 2- NÆo
+ReparaAV;1 e 2 ;1- Sim/ 2- NÆo
+ImportanciaAV;1 at‚ 5;Frequencia pouca - muita
+Biodiversidade;1 at‚ 3;1- Sim/ 2- Talvez/ 3- NÆo
+Definicao;1;Diversidade/Riqueza/ Variedade de esp‚cies
+;2;Conjunto de esp‚cies num local
+;3;Outros
+;4;NÆo sabe 
+PreocupaMA;1 at‚ 5;Frequencia pouca - muita
+EA;1 e 2 ;1- sim/ 2- nÆo
+Participar;1 at‚ 3;complementar a EA 1- sim/ 2- talvez/ 3- NÆo
+DiferencaAV;1;Sim, houve altera‡Æo/diminui‡Æo ao longo do tempo
+;2;NÆo houve mudan‡as
+;3;NÆo sei opinar
+Influencia;1;Negativamente
+;2;Urbaniza‡Æo/Antropiza‡Æo
+;3;Outros
+Medida;1;NÆo poluir/ NÆo desmatar/ NÆo jogar lixo em local inapropriado
+;2;Preservar  reas verdes
+;3;Educa‡Æo ambiental e legisla‡Æo
+;4;Outros
+;5;NÆo sei 
+Leis ;1;Importantes 
+;2;Ineficazes
+;3;NÆo sei 
+;;
