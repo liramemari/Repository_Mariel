@@ -21,7 +21,7 @@ fevereiro de 2022.
 
 - Na pasta “output”: Estão os resultados e gráficos das análises.
 
--Na pasta “R”: Estão todos os scripts utilizados para as análises
-estatísticas da pesquisa.
+- Na pasta “R”: Estão todos os scripts utilizados para as análises
+  estatísticas da pesquisa.
 
-Status do projeto: Finalizado, aguardando o artigo.
+Status do projeto: Finalizado, aguardando para publicação.
